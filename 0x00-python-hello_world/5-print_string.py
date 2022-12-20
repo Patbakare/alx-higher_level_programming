@@ -1,5 +1,5 @@
 #!/usr/bin/python3
 str = "Holberton School"
-print("str * 3\n")
+print("str * 3")
 FirstNine = str[:9]
-print("FirstNine\n")
+print("FirstNine")
