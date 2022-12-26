@@ -1,4 +1,3 @@
-import dis
-import magic_calculation
+#!/usr/bin/python3
 def magic_calculation(a, b):
-python -m dis magic_calculation.py
+    return len(98 + a ** b)
