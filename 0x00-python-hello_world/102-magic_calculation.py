@@ -1,4 +1,3 @@
-#!/usr/bin/python3
 import dis
 import magic_calculation
 def magic_calculation(a, b):
